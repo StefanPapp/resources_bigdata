@@ -1,0 +1,1 @@
+This folder contains mds that explains how to learn certain technologies
